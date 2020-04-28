@@ -1,13 +1,14 @@
 
   
-# Secrule - Labs ![](https://secrule.io/images/labs/icon.png =42x)
+# Secrule - Labs 
 
+![Secrule - Labs](https://secrule.io/images/labs/icon.png)
 
   
-  ## ![](https://secrule.io/images/labs/icon-2.png =24x) Lab 1  
+  ## Lab 1 - Sqlmap
  
   
-![Sqlmap Header](https://secrule.io/images/labs/sqlmap_bg2.jpg =500x)  
+![Sqlmap Header](https://secrule.io/images/labs/sqlmap_bg2.jpg)  
   
 ### Contents:  
   
